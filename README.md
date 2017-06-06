@@ -1,6 +1,6 @@
-# todolist
+# To do list app
 
-A new flutter project.
+A cross-platform mobile app made with Flutter
 
 ## Getting Started
 
